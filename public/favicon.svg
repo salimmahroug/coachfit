@@ -1,0 +1,16 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simplified barbell for small icon -->
+  <g transform="translate(4, 8)">
+    <!-- Left weight -->
+    <rect x="0" y="4" width="4" height="8" rx="1" fill="#0066CC"/>
+    
+    <!-- Bar -->
+    <rect x="4" y="6" width="16" height="2" rx="0.5" fill="#0066CC"/>
+    
+    <!-- Right weight -->
+    <rect x="20" y="4" width="4" height="8" rx="1" fill="#0066CC"/>
+  </g>
+  
+  <!-- Simplified C and F -->
+  <text x="16" y="26" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#0066CC" text-anchor="middle">CF</text>
+</svg>
